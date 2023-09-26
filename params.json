@@ -136,7 +136,6 @@
     "dkuProperties": []
   },
   "name": "git demo invariant",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -193,11 +192,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1695719368033,
+    "lastModifiedOn": 1695719465740,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -209,7 +208,9 @@
     "extendedProperties": {}
   },
   "shortDesc": "The project *git demo invariant* was created by Dimitri Labouesse on Sep 26th 2023",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
