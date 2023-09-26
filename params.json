@@ -135,7 +135,8 @@
     },
     "dkuProperties": []
   },
-  "name": "git demo invariant (feature-x)",
+  "name": "git demo invariant",
+  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -192,11 +193,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 2,
+    "versionNumber": 3,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1695719468183,
+    "lastModifiedOn": 1695719560313,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -207,10 +208,8 @@
     "lastModifiedOn": 1695719338567,
     "extendedProperties": {}
   },
-  "shortDesc": "The project *git demo invariant* was created by Dimitri Labouesse on Sep 26th 2023\nThe project *GIT_DEMO_INVARIANT_FEATURE_X* was copied from *GITDEMOINVARIANT* by Dimitri Labouesse on Sep 26th 2023",
-  "tags": [
-    "duplicated"
-  ],
+  "shortDesc": "The project *git demo invariant* was created by Dimitri Labouesse on Sep 26th 2023",
+  "tags": [],
   "customFields": {},
   "checklists": {
     "checklists": [
